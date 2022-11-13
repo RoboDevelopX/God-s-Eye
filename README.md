@@ -160,5 +160,3 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki -->
 
-[Linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/neeraj-m-r-173b64216/
